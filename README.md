@@ -1,1 +1,1 @@
-# data_mining_project
+# Data mining project
